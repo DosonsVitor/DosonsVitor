@@ -9,7 +9,7 @@
 
 ### Most Used Languages
 
-![Most Lnguages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosonsvitor&theme=blue-green&hide=html,css,shell)
+![Most Lnguages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosonsvitor&theme=blue-green&hide=html,css,shell,batchfile)
 
 
 
